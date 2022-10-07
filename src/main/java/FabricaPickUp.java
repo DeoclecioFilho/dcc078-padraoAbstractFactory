@@ -1,2 +1,2 @@
-public class FabricaPickUp {
+public class FabricaPickUp implements FabricaAbstrata{
 }

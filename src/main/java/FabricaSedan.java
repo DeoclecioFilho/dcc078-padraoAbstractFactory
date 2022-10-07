@@ -1,2 +1,2 @@
-public class FabricaSedan {
+public class FabricaSedan implements FabricaAbstrata{
 }
