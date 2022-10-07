@@ -1,6 +1,7 @@
 public interface FabricaAbstrata {
 
-        Manual.createManual();
-        CheckList.createCheckList();
-        Opcionais.createOpcionais();
+        Manual createManual();
+        CheckList createCheckList();
+        Opcionais createOpcionais();
+
 }

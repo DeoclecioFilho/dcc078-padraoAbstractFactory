@@ -8,7 +8,7 @@ public class Carro {
     public Carro (FabricaAbstrata fabrica){
         this.manual = fabrica.createManual();
         this.checkList = fabrica.createCheckList();
-        this.opcionais = fabrica.createOpcionaist();
+        this.opcionais = fabrica.createOpcionais();
     }
 
 

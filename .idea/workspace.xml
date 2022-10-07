@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a642bb20-faf3-4980-bb4c-acf4e4cb4342" name="Changes" comment="Criado as classes e interface">
-      <change beforePath="$PROJECT_DIR$/src/main/java/CheckList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CheckList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CheckListSedan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CheckListSedan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Manual.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Manual.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Opcionais.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Opcionais.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CarroTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Carro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FabricaAbstrata.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FabricaAbstrata.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FabricaPickUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FabricaPickUp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/FabricaSedan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FabricaSedan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ManualHatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ManualHatch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +24,7 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -42,13 +47,52 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Users/Deoclecio/Documents/_SI/7º periodo/dcc078 - EngSolf/Padroes/dcc078-padraoAbstractFactory&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CarroTest">
+    <configuration name="CarroTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dcc078-padraoAbstractFactory" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CarroTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarroTest.deveEmitirManualHatch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dcc078-padraoAbstractFactory" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CarroTest" />
+      <option name="METHOD_NAME" value="deveEmitirManualHatch" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CarroTest" />
+        <item itemvalue="JUnit.CarroTest.deveEmitirManualHatch" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
