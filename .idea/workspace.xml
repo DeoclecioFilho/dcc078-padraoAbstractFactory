@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a642bb20-faf3-4980-bb4c-acf4e4cb4342" name="Changes" comment="Criado as classes e interface">
-      <change afterPath="$PROJECT_DIR$/src/main/java/CarroTest.java" afterDir="false" />
+    <list default="true" id="a642bb20-faf3-4980-bb4c-acf4e4cb4342" name="Changes" comment="Criado testes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Carro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/FabricaAbstrata.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FabricaAbstrata.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/FabricaPickUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FabricaPickUp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/FabricaSedan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FabricaSedan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ManualHatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ManualHatch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +109,21 @@
       <option name="project" value="LOCAL" />
       <updated>1665105548860</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Criado testes">
+      <created>1665161882191</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665161882191</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Criado testes">
+      <created>1665161891976</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1665161891976</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -135,6 +142,7 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Criado o arquivo dcc078-padraoAbstractFactory" />
     <MESSAGE value="Criado as classes e interface" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criado as classes e interface" />
+    <MESSAGE value="Criado testes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criado testes" />
   </component>
 </project>
